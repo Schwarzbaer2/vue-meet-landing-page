@@ -49,14 +49,17 @@
       />
     </div>
   </div>
+  <div class="flex items-center justify-center pt-16 md:pt-20 xl:pt-28">
+    <parting-line>01</parting-line>
+  </div>
 </template>
 
 <script>
 import BaseButton from "@/components/BaseButton";
+import PartingLine from "@/components/PartingLine";
+
 export default {
   name: "HeaderContent",
-  components: { BaseButton },
+  components: { BaseButton, PartingLine },
 };
 </script>
-
-<style></style>
