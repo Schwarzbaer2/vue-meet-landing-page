@@ -23,14 +23,16 @@
             Meet makes it easy to connect with others face-to-face virtually and
             collaborate across any device.
           </p>
-          <div class="flex justify-center pt-8">
-            <div class="pr-2">
+          <div
+            class="flex flex-col items-center justify-center pt-8 md:flex-row"
+          >
+            <div class="pr-0 md:pr-2">
               <base-button buttonType="primary" buttonSize="large"
                 >Download
                 <span class="text-secondaryBlue">v1.3</span></base-button
               >
             </div>
-            <div>
+            <div class="pt-4 md:pt-0">
               <base-button buttonType="secondary" buttonSize="normal"
                 >Download
                 <span class="text-secondaryBlue">v1.3</span></base-button

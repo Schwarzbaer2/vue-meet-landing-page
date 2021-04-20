@@ -1,6 +1,6 @@
 <template>
   <button
-    class="block px-12 py-5 font-black leading-7 text-white transition duration-700 ease-in-out focus:outline-none rounded-3xl font-redHat"
+    class="block font-black leading-7 text-white transition duration-700 ease-in-out rounded-full focus:outline-none font-redHat"
     :class="[
       {
         'bg-mainBlue  hover:bg-tertiaryBlue': buttonType === 'primary',
