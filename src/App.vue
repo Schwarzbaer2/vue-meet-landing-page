@@ -1,6 +1,8 @@
 <template>
-  <div class="min-h-screen bg-mainWhite">
-    <TheHeader />
+  <div class="flex justify-center bg-mainWhite">
+    <div class="max-w-screen-xl min-h-screen">
+      <TheHeader />
+    </div>
   </div>
 </template>
 

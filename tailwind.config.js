@@ -7,7 +7,7 @@ module.exports = {
       // => @media (min-width: 768px) { ... }
 
       xl: "1440px",
-      // => @media (min-width: 1280px) { ... }
+      // => @media (min-width: 1440px) { ... }
     },
     extend: {
       fontFamily: {
@@ -20,7 +20,9 @@ module.exports = {
         mainGrey: "#87879D",
         mainMauve: "#D9B8FF",
         mainWhite: "#FAFAFA",
+        mainLavender: "#B18BDD",
         secondaryBlue: "#8FE3F9",
+        tertiaryBlue: "#71C0D4",
       },
     },
     variants: {
