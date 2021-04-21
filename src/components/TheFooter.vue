@@ -35,7 +35,19 @@ export default {
 </script>
 
 <style>
-footer {
-  background-image: url("../assets/mobile/image-footer.jpg");
+@media (max-width: 768px) {
+  footer {
+    background-image: url("../assets/mobile/image-footer.jpg");
+  }
+}
+@media (min-width: 768px) and (max-width: 1440px) {
+  footer {
+    background-image: url("../assets/tablet/image-footer.jpg");
+  }
+}
+@media (min-width: 1440px) {
+  footer {
+    background-image: url("../assets/desktop/image-footer.jpg");
+  }
 }
 </style>
