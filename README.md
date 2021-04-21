@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/vue-meet-landing-page-f53Qnyn5K](https://www.frontendmentor.io/solutions/vue-meet-landing-page-f53Qnyn5K)
 - Live Site URL: [https://vue-meet-landing-page.vercel.app/](https://vue-meet-landing-page.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/vue-meet-landing-page-f53Qnyn5K](https://www.frontendmentor.io/solutions/vue-meet-landing-page-f53Qnyn5K)
 
 ## My process
 
