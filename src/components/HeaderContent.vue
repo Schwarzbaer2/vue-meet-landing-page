@@ -1,7 +1,7 @@
 <template>
   <div class="w-screen ">
     <div
-      class="z-0 flex flex-col items-center justify-center overflow-hidden max-w-screen-2xl xl:flex-row pt-14 "
+      class="z-0 flex flex-col items-center overflow-hidden justify-evenly max-w-screen-3xl xl:flex-row pt-14 "
     >
       <div class="flex justify-center xl:hidden">
         <img
