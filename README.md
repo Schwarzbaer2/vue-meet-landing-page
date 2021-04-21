@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshot-fullpage.png)
 ![](./screenshot-mobile.png)
+![](./screenshot-fullpage.png)
 
 ### Links
 
