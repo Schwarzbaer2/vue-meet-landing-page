@@ -37,9 +37,8 @@
               </div>
               <div class="pt-4 md:pt-0">
                 <base-button buttonType="secondary" buttonSize="normal"
-                  >Download
-                  <span class="text-secondaryBlue">v1.3</span></base-button
-                >
+                  >What is it?
+                </base-button>
               </div>
             </div>
           </div>
